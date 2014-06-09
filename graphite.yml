@@ -1,0 +1,3 @@
+- hosts: graphite
+  roles:
+     - jmartin.graphite
