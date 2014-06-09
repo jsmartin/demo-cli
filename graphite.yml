@@ -1,3 +1,4 @@
 - hosts: graphite
+  sudo: yes
   roles:
      - jmartin.graphite
